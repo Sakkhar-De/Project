@@ -1,0 +1,156 @@
+
+body{
+	background-color:#f0cbb2;
+}
+.jumbotron{
+	background-color: #6e1f10;
+	margin-top: 100px;
+}
+.jumbotron{
+		color:white;
+
+}
+.navbar-inverse{
+	background: black;
+}
+
+table th{
+	text-align: left;
+	background-color: #7b6bee  ;
+	color: #fff;
+	padding: 4px 30px 4px 8px;
+}
+table td{
+	border:1px solid #7B68EE;
+	padding: 2px 4px;
+}
+p{
+	width: 50%;
+}
+
+h2{
+	margin: 0;
+	padding: 0;
+	color: #fff
+	text-transform:uppercase;
+	letter-spacing:9px;
+}
+.progress{
+	width: 15%;
+	margin-left: 150px;
+	margin-top: -25px;
+	margin-bottom: 100px;
+}
+*{
+  margin:0px;
+}
+body,html{
+  width:100%;
+  height: 100%:;
+}
+.contain{
+  width:100%;
+  max-width: 1700px;
+  margin-left: 150px;
+  margin-right: auto;
+  background-color:
+}
+.box{
+  width: 50%;
+  height: 300px;
+  float: left;
+}
+#foot{
+  color: black;margin-left: 500px; opacity: 0.8;font-size: 140%
+}
+.clearfix{
+  clear: both;
+}
+@media screen and (max-width: 768px){
+  .contain{
+  width:100%;
+  max-width: 1700px;
+  margin-left: 90px;
+  margin-right: auto;
+  background-color:
+}
+  .box1{
+    width: 100%;
+  }
+   .box2{
+    width: 100%;
+   }
+  .box3{
+    width:100%;
+  }
+
+  .box4{
+    width:100%;
+  }
+ .box5{
+ 	width: 100%;
+
+ }
+  .box6{
+    width: 100%;
+  }
+   .box7{
+    width: 100%;
+   }
+  .box8{
+    width:100%;
+  }
+
+  .box9{
+    width:100%;
+  }
+ .box10{
+ 	width: 100%;
+}
+#foot{
+  color: black;margin-left: 100px; opacity: 0.8;font-size: 140%
+}
+@media screen and (max-width:375px){
+  .contain{
+  width:100%;
+  max-width: 1700px;
+  margin-left: 15px;
+  margin-right: auto;
+  background-color:
+}
+    .box1{
+    width: 100%;
+  }
+   .box2{
+    width: 100%;
+   }
+  .box3{
+    width:100%;
+  }
+
+  .box4{
+    width:100%;
+  }
+  .box5{
+  	width:100%;
+  }
+   .box6{
+    width: 100%;
+  }
+   .box7{
+    width: 100%;
+   }
+  .box8{
+    width:100%;
+  }
+
+  .box9{
+    width:100%;
+  }
+ .box10{
+ 	width: 100%;
+}
+#foot{
+  color: black;margin-left: 30px; opacity: 0.8;font-size: 100%
+}
+}

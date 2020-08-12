@@ -1,0 +1,1 @@
+https://www.fast2sms.com/dev/quick-templates?authorization=3M4YgZ1pvGKxXoJseAklm8Ft7unRfV09aSBIT5DyLH6PUdNczqpoJ75WzbjKa0fF1QmDTcOuA2wBeiM4

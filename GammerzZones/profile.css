@@ -1,0 +1,45 @@
+.contener{
+	float :left;
+}
+.navbar-inverse{
+	background: #2c3e50;
+}
+.con{
+	float: right;
+	margin-top: 50px;
+	margin-right:550px;
+}
+body{
+	margin-top: 100px;  
+}
+.first{
+	float:  right;
+	margin-top: 70px;
+	margin-left:300px;
+}
+body{
+	font-family:sans-serif;
+	color:#3c3939;
+	background-color:black;
+}
+p,h4,h1{
+	color: white  ;
+
+}
+.slider{
+	width: 100px;
+	height: 50px;
+	background: url(sk2.jpg);
+	margin-left: 900px;
+	margin-top:0px;
+    margin-bottom:0px;
+
+}
+.footer {
+    padding-bottom:10px;
+    margin-bottom: -10px;
+    margin-top: 300px;
+    min-width:100%;
+    margin-left: 580px;
+    font-size: 18px;
+}

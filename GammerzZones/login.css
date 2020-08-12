@@ -1,0 +1,87 @@
+body{
+	Background:url(tstlogin.jpg);
+	Background-size:cover;
+	Background-position:center;
+	Font-family:sans-serif; 
+	height: 100vh;
+} 
+.login-box{
+	Width:320px;
+	Height:490px;
+	Background:rgba( 0, 0, 0, 0.5);
+	Color:#fff;
+	Top:50%;
+	Left:50%;
+	Position:absolute;
+	transform:Translate(-50%,-50%);
+	Box-sizing:border-box;
+	padding:70px  30px;
+}
+.avatar{
+	Width:100px;
+	Height:100px;
+	border-radius:50%;
+	position:absolute;
+	top:-50px;
+	left: calc(50% - 50px);
+}
+.login-box h1{
+	margin:0;
+	padding: 0 0 20px;
+	Font-size:40px;
+	text-align:center;
+}
+.login-box p{
+	margin:0;
+	padding:0;
+	font-weight:bold;
+}
+.login-box input{
+	width:100%;
+	margin-bottom:20px;
+}
+.login-box input[type="text"],input[type="password"]{
+	border:none;
+	background:transparent;
+	height:40px;
+	outline:none;
+	border-bottom:1px solid #fff;
+	font-size:16px;
+	color:#fff;
+}
+.login-box input[type="submit"]{
+	border:none;
+	outline:none;
+	height:40px;
+	background:black;
+	color:#fff;
+	font-size:20px;
+	border-radius:20px;
+}
+
+.login-box input[type="submit"]:hover{
+	cursor:pointer;
+	background:red;
+	color:white ;
+}
+.login-box a{
+	font-size:14px;
+	color:white;
+}
+.login-box a:hover{
+	color:red;
+} 
+@media screen and (max-width:320px){
+.login-box{
+	Width:220px;
+	Height:390px;
+	Background:rgba( 0, 0, 0, 0.5);
+	Color:#fff;
+	top:50%;
+	left:50%;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	box-sizing:border-box;
+	padding:70px  30px;
+}
+}
